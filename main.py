@@ -1,7 +1,7 @@
 import openai
 
 # Replace YOUR_API_KEY with your actual API key
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 class Cake:
     def __init__(self, flour, sugar, eggs, cake_type):
